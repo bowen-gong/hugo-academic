@@ -2,8 +2,8 @@
 title: Bowen Gong
 role: Ph.D. of Mechanical Engineering
 avatar_filename: https://i.imgur.com/C6OuliN.jpg
-bio: My research interests include social network, machine learning, and
-  parallel computing
+bio: "My research interests include social network, machine learning, and
+  parallel computing "
 interests:
   - Network Science
   - Parallel Computing
