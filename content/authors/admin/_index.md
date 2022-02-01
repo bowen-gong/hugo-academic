@@ -1,7 +1,7 @@
 ---
 title: Bowen Gong
 role: Ph.D. of Mechanical Engineering
-avatar_filename: photo.jpg
+avatar_filename: https://i.imgur.com/C6OuliN.jpg
 bio: My research interests include social network, machine learning, and
   parallel computing
 interests:
@@ -42,12 +42,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Bowen Gong is currently a Ph.D. candidate in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI).
+Bowen Gong is currently a Ph.D. candidate in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI). His advisor is Dr. [Jie Lian](http://homepages.rpi.edu/~lianj/about.html) and he is actively working on the development of Advanced Tolerant Fuels (ATFs). Currently, he has 10 first-author publications and more than 20 co-author publications on high-impact journals.
 
-For his Ph.D. program, his advisor is Dr. [Jie Lian](http://homepages.rpi.edu/~lianj/about.html) and he is actively working on the development of Advanced Tolerant Fuels (ATFs). Currently, he has 10 first-author publications and more than 20 co-author publications on high-impact journals.
+Bowen got his master's degree in computer science from RPI in 2021. His advisor is Dr. [Boleslaw Szymanski](http://cs.rpi.edu/~szymansk/), a scientist in the field of network science. Bowen worked on a project predicting the spread of COVID using public transportation data in 2020 and he is actively working on reaction-based analysis for information cascade.
 
-For his M.S. program in computer science, his advisor is Dr. [Boleslaw Szymanski](http://cs.rpi.edu/~szymansk/), a scientist in the field of network science. Bowen worked on a project predicting the spread of COVID using public transportation data in 2020 and he is actively working on reaction-based analysis for information cascade.
-
-At the same time, he also received a master's degree program from Georgia Tech, with a specialization in computing system.
+At the same time, he also received a master's degree from Georgia Tech, with a specialization in computing system.
 
 Prior to joining RPI, he worked at Oak Ridge National Laboratory (ORNL). Before that, Bowen completed his master's degree in mechanical engineering from Arizona State University (ASU) in 2015 and his bachelor's degree from Huazhong University of Science and Technology (HUST) in China.
