@@ -1,77 +1,54 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Bowen Gong
+role: Ph.D. of Mechanical Engineering
+avatar_filename: photo.jpg
+bio: My research interests include social network, machine learning, and
+  parallel computing
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Network Science
+  - Parallel Computing
+  - Machine learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: boweng@gmail.com
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=CZf8w9wAAAAJ&hl=en&oi=ao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bowen-gong/
+organizations:
+  - name: Rensselaer Polytechnic Institute
+    url: https://www.rpi.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Mechanical Engineering
+      institution: Rensselaer Polytechnic Institute
+      year: 2022
+    - course: M.S. in Computer Science
+      institution: Rensselaer Polytechnic Institute
+      year: 2021
+    - course: M.S. in Computer Science
+      institution: Rensselaer Polytechnic Institute
+      year: 2021
+    - course: M.S. in Mechanical Engineering
+      institution: Arizona State University
+      year: 2015
+    - course: B.S. in Mechanical Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2014
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+Bowen Gong is currently a Ph.D. candidate in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For his Ph.D. program, his advisor is Dr. [Jie Lian](http://homepages.rpi.edu/~lianj/about.html) and he is actively working on the development of Advanced Tolerant Fuel (ATF). Currently, he has 7 first-author publications and more than 20 co-author publications on high-impact journals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+For his M.S. program in computer science, his advisor is Dr. [Boleslaw Szymanski](http://cs.rpi.edu/~szymansk/), a scientist in the field of network science. He worked on a project predicting the spread of COVID using public transportation data in 2020 and he is actively working on reaction-based analysis for information cascade.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+At the same time, he also received a master's degree program from Georgia Tech, with a specialization of computing system.
+
+Prior to joining RPI, he worked at Oak Ridge National Laboratory (ORNL). Before that, Bowen completed his master's degree in mechanical engineering from Arizona State University (ASU) 
+in 2015 and his bachelor's degree from Huazhong University of Science and Technology (HUST) in China.
