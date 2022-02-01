@@ -46,6 +46,6 @@ Bowen Gong is currently a Ph.D. candidate in Mechanical Engineering at Rensselae
 
 Bowen got his master's degree in computer science from RPI in 2021. His advisor is Dr. [Boleslaw Szymanski](http://cs.rpi.edu/~szymansk/), a scientist in the field of network science. Bowen worked on a project predicting the spread of COVID using public transportation data in 2020 and he is actively working on reaction-based analysis for information cascade.
 
-At the same time, he also received a master's degree from Georgia Tech, with a specialization in computing system.
+At the same time, he also received a master's degree from Georgia Tech in 2021, with a specialization in computing system.
 
 Prior to joining RPI, he worked at Oak Ridge National Laboratory (ORNL). Before that, Bowen completed his master's degree in mechanical engineering from Arizona State University (ASU) in 2015 and his bachelor's degree from Huazhong University of Science and Technology (HUST) in China.
